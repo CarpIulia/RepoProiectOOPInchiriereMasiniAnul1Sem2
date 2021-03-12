@@ -1,0 +1,22 @@
+[2020-07-16 21:33:38] [info] Start Program:
+Path:"C:\\Users\\Iulia\\Desktop\\Facultate\\Programare orientata obiect\\Lab10_11\\x64\\Debug\\Lab10_11.exe"
+Arguments:
+Working directory: "C:\\Users\\Iulia\\Desktop\\Facultate\\Programare orientata obiect\\Lab10_11\\Lab10_11\\"
+Modules: Selected: C:\Users\Iulia\Desktop\Facultate\Programare orientata obiect\Lab10_11\x64\Debug\Lab10_11.exe Excluded: 
+Sources: Selected: C:\Users\Iulia\Desktop\Facultate\Programare orientata obiect\Lab10_11\Lab10_11 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Iulia\AppData\Local\Temp\xqxclpyo.hb5 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-07-16 21:33:38] [info] Module: C:\Users\Iulia\Desktop\Facultate\Programare orientata obiect\Lab10_11\x64\Debug\Lab10_11.exe is selected because it matches selected pattern: C:\Users\Iulia\Desktop\Facultate\Programare orientata obiect\Lab10_11\x64\Debug\Lab10_11.exe
+[2020-07-16 21:33:39] [info] ----------------------------------------------------
+[2020-07-16 21:33:39] [info] Coverage binary generated in file: C:\Users\Iulia\AppData\Local\Temp\xqxclpyo.hb5
+[2020-07-16 21:33:39] [info] ----------------------------------------------------
+[2020-07-16 21:33:39] [error] Your program stop with error code: -1073741515
